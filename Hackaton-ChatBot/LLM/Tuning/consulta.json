@@ -1,0 +1,26 @@
+{
+    "name": "consulta_informacoes_conta",
+    "description": "Consulta informações da conta do cliente, podendo retornar saldo, extrato, limite e tarifa.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "saldo": {
+                "type": "boolean",
+                "description": "Indica se deseja consultar o saldo da conta."
+            },
+            "extrato": {
+                "type": "boolean",
+                "description": "Indica se deseja obter o extrato das transações."
+            },
+            "limite": {
+                "type": "boolean",
+                "description": "Indica se deseja verificar os limites da conta."
+            },
+            "tarifa": {
+                "type": "boolean",
+                "description": "Indica se deseja consultar as tarifas aplicáveis."
+            }
+        },
+        "required": []
+    }
+}
