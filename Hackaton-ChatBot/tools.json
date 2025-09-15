@@ -1,0 +1,20 @@
+[
+    {
+        "name": "obter_cotacao",
+        "description": "Obter a cotação entre duas moedas para retornar o valor",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "origin_currency": {
+                    "type": "string",
+                    "description": "A moeda para converter de, e.g., 'USD', 'EUR', 'BRL'."
+                },
+                "destination_currency": {
+                    "type": "string",
+                    "description": "A moeda para converter para. O padrão deve ser 'BRL' se não especificado."
+                }
+            },
+            "required": ["origin_currency"]
+        }
+    }
+]

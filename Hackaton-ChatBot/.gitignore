@@ -1,0 +1,72 @@
+# .NET
+## Ignore Visual Studio temporary files, build results, and
+## common settings.
+*.vs/
+*.vscode/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.ide.workspace
+
+# ASP.NET
+wwwroot/
+
+# .NET Build
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+*.tlog
+*.log.*
+log/
+
+# Publish output
+artifacts/
+publish/
+out/
+
+# Rider
+.idea/
+
+# Vue.js
+## Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+
+## Environment variables
+.env.local
+.env.*.local
+
+## Editor local files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+## TypeScript
+*.tsbuildinfo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore lock files if not required
+# Uncomment the following lines if your project doesn't require these
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
