@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos\\Hacka - Pine\\backend\\backend.Domain\\backend.Domain.csproj": {}
+    "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos-Pessoais\\Hackaton_IA\\backend\\backend.Domain\\backend.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos\\Hacka - Pine\\backend\\backend.Domain\\backend.Domain.csproj": {
+    "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos-Pessoais\\Hackaton_IA\\backend\\backend.Domain\\backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos\\Hacka - Pine\\backend\\backend.Domain\\backend.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos-Pessoais\\Hackaton_IA\\backend\\backend.Domain\\backend.Domain.csproj",
         "projectName": "backend.Domain",
-        "projectPath": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos\\Hacka - Pine\\backend\\backend.Domain\\backend.Domain.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos-Pessoais\\Hackaton_IA\\backend\\backend.Domain\\backend.Domain.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos\\Hacka - Pine\\backend\\backend.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\PROJETOS\\Projetos-Pessoais\\Hackaton_IA\\backend\\backend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
