@@ -4,3 +4,9 @@ env/
 .env
 ENV/
 .venv/
+# .NET Build Artifacts
+**/bin/
+**/obj/
+*.user
+*.userosscache
+*.sln.docstates
